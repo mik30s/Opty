@@ -39,4 +39,4 @@ Then use it like this.
 
 See demo.cpp for more examples.
 
-#####This project was originally a fork of [AnyOption](https://github.com/hackorama/AnyOption)
+#####This project was originally a fork of [AnyOption](https://github.com/hackorama/AnyOption) and is currently being improved.
